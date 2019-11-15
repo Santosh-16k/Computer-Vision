@@ -1,0 +1,7 @@
+List of implementations to be included in the repository.
+
+1. YOLO
+2. Faster RCNN
+3. SSD
+
+More to be added.
